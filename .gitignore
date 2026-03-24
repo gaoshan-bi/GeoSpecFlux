@@ -1,0 +1,9 @@
+data
+runs
+*.png
+.DS_Store
+GeoSpecFlux__Geometry__and_Spectral_Aligned_Multimodal_Learning_for_Robust_Carbon_Flux_Prediction.pdf
+
+__pycache__/
+*.pyc
+=1.4.0
