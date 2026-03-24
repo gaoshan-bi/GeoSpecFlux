@@ -49,7 +49,7 @@ python GeoSpexFlux/run_local.py \
 ## Evaluation
 
 ```bash
-python GeoSpexFlux/test_ecoperceiver.py
+python GeoSpexFlux/test_geospecflux.py
 ```
 
 Update the checkpoint paths inside the evaluation script if needed before running inference.
@@ -59,7 +59,7 @@ Update the checkpoint paths inside the evaluation script if needed before runnin
 - `GeoSpexFlux/model.py`: GeoSpecFlux model definition
 - `GeoSpexFlux/dataset.py`: dataset loading and collation
 - `GeoSpexFlux/run_local.py`: training entry point
-- `GeoSpexFlux/test_ecoperceiver.py`: evaluation / inference script
+- `GeoSpexFlux/test_geospecflux.py`: evaluation / inference script
 - `GeoSpexFlux/config.yml`: experiment configuration
 
 ## License
