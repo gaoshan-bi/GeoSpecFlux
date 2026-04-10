@@ -4,13 +4,6 @@ Code for the paper **GeoSpecFlux: Geometry- and Spectral-Aligned Fusion of Remot
 
 This repository contains the training and evaluation code for multimodal carbon flux prediction from meteorological drivers and multispectral remote sensing observations.
 
-## Scope
-
-This repository is for code only.
-
-- The dataset is not uploaded to GitHub.
-- The paper PDF is not included in the GitHub code release.
-
 ## Dataset
 
 Please download the dataset from Zenodo:
