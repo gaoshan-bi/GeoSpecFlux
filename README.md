@@ -1,6 +1,6 @@
 # GeoSpecFlux
 
-Code for the paper **GeoSpecFlux: Geometry- and Spectral-Aligned Multimodal Learning for Robust Carbon Flux Prediction**.
+Code for the paper **GeoSpecFlux: Geometry- and Spectral-Aligned Fusion of Remote Sensing and Meteorological Observations for Robust Carbon Flux Estimation**.
 
 This repository contains the training and evaluation code for multimodal carbon flux prediction from meteorological drivers and multispectral remote sensing observations.
 
